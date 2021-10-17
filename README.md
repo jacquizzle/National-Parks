@@ -7,3 +7,5 @@ Data found
 Income: https://fred.stlouisfed.org/series/MEHOINUSA672N
 Fuel: https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=pet&s=emm_epm0_pte_nus_dpg&f=m
 Natl Park Data: https://irma.nps.gov/STATS/
+
+Slides: https://docs.google.com/presentation/d/1sELwSqBmWJOJpWiauavSEUNvMmyBSbiWHKwaVkQf_AI/edit#slide=id.p
