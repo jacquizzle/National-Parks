@@ -9,3 +9,6 @@ Fuel: https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=pet&s=emm_epm0_pte_nu
 Natl Park Data: https://irma.nps.gov/STATS/
 
 Slides: https://docs.google.com/presentation/d/1sELwSqBmWJOJpWiauavSEUNvMmyBSbiWHKwaVkQf_AI/edit#slide=id.p
+
+
+Check out my blog post! https://nycdatascience.com/blog/student-works/how-do-economic-factors-influence-national-park-visitation/
